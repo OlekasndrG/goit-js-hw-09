@@ -75,7 +75,7 @@
 91C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\terser\lib\compress\tighten-body.js121436361000000000 0
 80C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\ansi-styles\package.json121436361000000000 0
 105C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile121436361000000000 0
-47C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist133186406935317754 1
+47C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist133186410438856664 1
 64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\svgo\lib133186402732557988 1
 100C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\utility-types\dist\aliases-and-guards.js.map121436361000000000 0
 98C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\utility-types\dist\functional-helpers.d.ts121436361000000000 0
@@ -116,7 +116,7 @@
 89C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\electron-to-chromium\package.json121436361000000000 0
 64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\chokidar133186402717562501 1
 71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\watcher133186402733904195 1
-81C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133186406935266571 0
+81C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133186410438806667 0
 61C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\src\css\common.css133186328460000000 0
 79C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\terser\lib\transform.js121436361000000000 0
 93C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\caniuse-lite\dist\unpacker\feature.js121436361000000000 0
@@ -186,7 +186,7 @@
 72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\.bin\detect-libc133186402758306696 0
 94C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\packager-js\src\DevPackager.js121436361000000000 0
 49C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\src\js133186328460000000 1
-70C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\src\js\01-color-switcher.js133186328460000000 0
+70C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\src\js\01-color-switcher.js133186410306250026 0
 79C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\react-refresh\README.md121436361000000000 0
 71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\acorn\README.md121436361000000000 0
 61C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\src\js\02-timer.js133186328460000000 0
@@ -1178,7 +1178,7 @@
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\caniuse-lite\data\regions\KZ.js121436361000000000 0
 74C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\timsort\LICENSE.md131138581980000000 0
 65C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\nan\nan.h121436361000000000 0
-68C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\02-timer.f9388f03.js133186406935075373 0
+68C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\02-timer.f9388f03.js133186410438632327 0
 88C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\terser\lib\compress\inference.js121436361000000000 0
 134C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js121436361000000000 0
 80C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\terser\tools\terser.d.ts121436361000000000 0
@@ -1364,7 +1364,7 @@
 110C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js121436361000000000 0
 77C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\domutils\lib\feeds.js121436361000000000 0
 81C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\svgo\plugins\sortAttrs.js121436361000000000 0
-77C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133186406935075373 0
+77C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133186410438612485 0
 81C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\hash\package.json121436361000000000 0
 88C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\svgo\plugins\sortDefsChildren.js121436361000000000 0
 105C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\transformer-js\parcel-swc.darwin-x64.node121436361000000000 0
@@ -1554,7 +1554,7 @@
 87C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\sass\types\util\promise_or.d.ts121436361000000000 0
 89C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\fast-glob\out\readers\reader.d.ts121436361000000000 0
 94C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\sass\types\logger\source_location.d.ts121436361000000000 0
-61C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\02-timer.html133186406935065354 0
+61C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\02-timer.html133186410438592291 0
 82C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\nth-check\lib\esm\parse.js121436361000000000 0
 108C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@babel\highlight\node_modules\chalk\types\index.d.ts121436361000000000 0
 83C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\lmdb-linux-x64\package.json121436361000000000 0
@@ -1908,7 +1908,7 @@
 112C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\files\file1.txt121436361000000000 0
 78C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\nan\nan_string_bytes.h121436361000000000 0
 118C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\files\embed\file2.txt121436361000000000 0
-58C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\index.html133186406935105399 0
+58C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\index.html133186410438592291 0
 106C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\src\getFilesToRemove.js121436361000000000 0
 101C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\src\removeFiles.js121436361000000000 0
 98C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\css-select\lib\pseudo-selectors\pseudos.js121436361000000000 0
@@ -2522,7 +2522,7 @@
 100C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\utils\test\input\sourcemap\inline.js121436361000000000 0
 74C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\is-extglob\LICENSE130689047460000000 0
 76C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\is-extglob\README.md131174035350000000 0
-82C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133186406935256578 0
+82C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133186410438786634 0
 81C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\is-binary-path\index.d.ts121436361000000000 0
 78C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\is-binary-path\license121436361000000000 0
 129C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main\main.js121436361000000000 0
@@ -2987,7 +2987,7 @@
 109C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc121436361000000000 0
 90C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Atrule.js121436361000000000 0
 74C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\boolbase\README.md130369490040000000 0
-75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133186406935286559 0
+75C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133186410438786634 0
 97C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js121436361000000000 0
 101C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\AttributeSelector.js121436361000000000 0
 92C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Brackets.js121436361000000000 0
@@ -3547,7 +3547,7 @@
 97C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-regions.js121436361000000000 0
 130C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json121436361000000000 0
 109C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-repeating-gradients.js121436361000000000 0
-64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\03-promises.html133186406935085433 0
+64C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\03-promises.html133186410438592291 0
 98C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-rrggbbaa.js121436361000000000 0
 105C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-scroll-behavior.js121436361000000000 0
 99C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-scrollbar.js121436361000000000 0
@@ -4223,7 +4223,7 @@
 86C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers133186402724294679 1
 94C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\browser133186402727438799 1
 105C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\bundle-manifest.js121436361000000000 0
-72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\02-timer.f9388f03.js.map133186406935256578 0
+72C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\02-timer.f9388f03.js.map133186410438816662 0
 100C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js121436361000000000 0
 104C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js121436361000000000 0
 88C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\@parcel\packager-js\lib\index.js121436361000000000 0
@@ -4820,11 +4820,11 @@
 69C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\.bin\svgo.ps1133186402758565846 0
 67C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\.bin\terser133186402758565846 0
 71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\node_modules\.bin\terser.ps1133186402758565846 0
-78C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133186406935065354 0
-70C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.html133186406935065354 0
-71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\03-promises.cd58c9ff.js133186406935075373 0
-73C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133186406935175363 0
-77C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133186406935296557 0
+78C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133186410438592291 0
+70C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\01-color-switcher.html133186410438582272 0
+71C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\03-promises.cd58c9ff.js133186410438592291 0
+73C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133186410438642291 0
+77C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133186410438826659 0
 66C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\assets\how-it-works.png133178240737860301 0
 67C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\assets\repo-settings.png133178240738008745 0
 60C:\Users\HP\Desktop\IT Y4eba\goit-js-hw-09\assets\status.png133178240738034334 0
